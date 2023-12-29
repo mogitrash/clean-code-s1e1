@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.promo { text-align: center;
-}
+  .promo { 
+    text-align: center;
+  }
 }
 .container {
   display: block;
